@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - No changes
 
+## [0.11.0][]- 2024-05-14
+
+### Updated
+
+- Adds Tesla telemetry Plug to collect metrics
+
 ## [0.10.0][]
 
 ### Fixed
